@@ -754,4 +754,4 @@ jobs:
             -H "Content-Type: application/json" \
             -d "$payload")
 
-          echo "Safeguard AI Review Gate response: $create_body"
+          echo "Safeguard AI Review Gate response : $create_body"
